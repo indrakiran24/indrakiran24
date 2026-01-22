@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Indrakiran 👋
 
-<!--
-**indrakiran24/indrakiran24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate exploring **WordPress and PHP**
+with hands-on open-source contributions.
 
-Here are some ideas to get you started:
+### Recent Highlights
+- Built a custom WordPress plugin
+- Opened a Pull Request to WordPress Plugin Boilerplate
+- Experience with React and Java backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+- PHP, WordPress
+- JavaScript, React
+- Java, MySQL
