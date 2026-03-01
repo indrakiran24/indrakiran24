@@ -1,36 +1,34 @@
-# Hi, I'm Indrakiran
+# Indrakiran | Software & AI Systems Builder
 
-Computer Science Engineering student focused on building **real-world software systems, AI-driven applications, and backend platforms.**
+Computer Science Engineering student focused on building **real-world backend systems, AI-driven applications, and data platforms.**
 
-I develop complete end-to-end applications including **backend APIs, databases, dashboards and intelligent systems.**
+I design and develop complete applications including **backend architecture, APIs, databases and intelligent features.**
 
 ---
 
-## About Me
+## Engineering Profile
 
-• B.Tech Computer Science Engineering (2022–2026)  
+• B.Tech Computer Science Engineering (2022 – 2026)  
 • CGPA: 8.18  
-• Strong interest in AI Systems and Backend Engineering  
-• Learning software engineering through real projects  
-• Focused on building practical applications
+• Backend and AI focused developer  
+• Experience building complete end-to-end systems  
+• Strong interest in intelligent software systems
 
 ---
 
-## Engineering Approach
+## Core Areas
 
-I build complete systems instead of small programs.
-
-Typical workflow:
-
-Idea → Backend → Database → API → Interface → Testing
-
-This approach helps me understand real-world software engineering.
+Backend Engineering  
+AI-based Applications  
+API Development  
+Data Dashboards  
+Full Stack Applications
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-### Programming Languages
+### Languages
 
 Java  
 Python  
@@ -38,14 +36,14 @@ JavaScript
 
 ---
 
-### Backend Development
+### Backend
 
 Spring Boot  
-REST APIs
+REST API Development
 
 ---
 
-### Frontend Development
+### Frontend
 
 React.js  
 HTML  
@@ -61,11 +59,11 @@ MongoDB
 
 ---
 
-### Data & Analytics
+### Data Technologies
 
 PySpark  
 Pandas  
-Data Visualization
+Data Processing
 
 ---
 
@@ -79,20 +77,19 @@ Android Studio
 
 ---
 
-## Major Projects
+## Key Projects
 
 ### Bank Management System
 
-Backend banking system built using Spring Boot.
+Backend banking application supporting financial operations.
 
 Features:
 
 • Account creation  
-• Deposit operations  
-• Withdrawal operations  
-• Balance checking  
-• Data validation  
-• Secure storage
+• Deposit and withdrawal operations  
+• Balance management  
+• Input validation  
+• Secure data handling
 
 Technology:
 
@@ -102,34 +99,72 @@ REST APIs
 
 ---
 
-### CineScope Movie Listing Platform
+### AI Project Suggestion Platform
 
-Responsive movie search platform built using React and external APIs.
+AI-based platform that recommends engineering projects with technical requirements.
 
 Features:
 
-• Movie search  
-• Movie details pages  
+• Project recommendations  
+• Technology suggestions  
+• Requirement estimation  
+• Structured project guidance
+
+Technology:
+
+Spring Boot  
+MySQL  
+APIs
+
+---
+
+### Location-Based Analytics Dashboard
+
+Analytics system generating reports using location and timestamps.
+
+Features:
+
+• Location-based reporting  
+• Live API data integration  
+• Automated report generation  
+• Data visualization
+
+Technology:
+
+Python  
+Streamlit  
+Plotly  
+REST APIs
+
+---
+
+### CineScope Movie Platform
+
+Responsive movie listing and search application.
+
+Features:
+
+• Movie search functionality  
 • Dynamic routing  
-• Reusable components
+• Movie details pages  
+• Responsive design
 
 Technology:
 
 React.js  
-JavaScript  
 REST APIs
 
 ---
 
 ### Agricultural Data Analysis
 
-Large scale data analysis project.
+Large-scale dataset processing and analysis project.
 
 Features:
 
 • Data cleaning  
-• Data processing  
-• Pattern analysis  
+• Data transformation  
+• Pattern discovery  
 • Visualization
 
 Technology:
@@ -140,66 +175,33 @@ Pandas
 
 ---
 
-### AI Project Suggestion Platform
+## Engineering Approach
 
-AI-based system that suggests engineering projects.
+I focus on building practical systems instead of isolated programs.
 
-Features:
+Typical development process:
 
-• Project recommendations  
-• Technology suggestions  
-• Estimated project requirements  
-• Cost estimation
+Problem → Design → Backend → Database → API → Interface → Testing
 
-Technology:
-
-Spring Boot  
-APIs  
-MySQL
+This approach helps me understand real-world software development.
 
 ---
 
-### Location-Based Data Dashboard
+## Currently Working On
 
-Dashboard system that generates reports using location and timestamps.
-
-Features:
-
-• Location-based reports  
-• API data integration  
-• Data visualization  
-• Automatic report generation
-
-Technology:
-
-Python  
-Streamlit  
-APIs  
-Plotly
-
----
-
-## Current Learning Focus
-
-• AI-driven applications  
-• Backend system design  
-• API-based systems  
-• Data-driven applications
+• AI-based automation tools  
+• Backend architecture improvement  
+• Intelligent data dashboards  
+• AI applications in real-world systems
 
 ---
 
 ## Strengths
 
-• Problem solving mindset  
-• Attention to detail  
 • Analytical thinking  
-• Continuous learning
-
----
-
-## Goals
-
-My goal is to become a strong software engineer capable of building real-world intelligent systems and scalable backend platforms.
+• Problem solving  
+• Attention to detail  
+• System-level understanding
 
 ---
 
@@ -215,4 +217,4 @@ https://github.com/indrakiran24
 
 LinkedIn:
 
-www.linkedin.com/in/indrakiran-inturi-24iik
+(Add LinkedIn URL)
