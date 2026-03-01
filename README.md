@@ -217,4 +217,4 @@ https://github.com/indrakiran24
 
 LinkedIn:
 
-(Add LinkedIn URL)
+www.linkedin.com/in/indrakiran-inturi-24iik
