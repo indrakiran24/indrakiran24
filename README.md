@@ -1,226 +1,115 @@
-# Indrakiran | Software & AI Systems Builder
+# Indrakiran | Systems & Backend-Focused Developer
 
-Computer Science Engineering student focused on building **real-world software systems, backend applications, and data-driven platforms.**
+Computer Science Engineering student focused on building **scalable software systems, backend architectures, and data-driven applications**.
 
-I develop complete applications including **backend logic, databases, APIs, dashboards and intelligent features.**
-
----
-
-## Engineering Profile
-
-• B.Tech Computer Science Engineering (2022 – 2026)  
-• CGPA: 8.18  
-• Interested in Backend Engineering and AI-based applications  
-• Experience building end-to-end academic and personal projects  
-• Strong interest in practical software development
+I work on designing complete systems — from **data processing and backend logic to APIs, dashboards, and intelligent decision layers**.
 
 ---
 
-## Core Areas
+## Engineering Focus
 
-Backend Development  
-AI-based Applications  
-API Development  
-Data Dashboards  
-Full Stack Applications
+• Backend Systems & API Design
+• Data-Driven Applications
+• System Architecture (project-based)
+• Scalable Software Development
 
 ---
 
 ## Technical Stack
 
-### Languages
+**Languages:**
+Java, Python, JavaScript
 
-Java  
-Python  
-JavaScript
+**Core Computer Science:**
+Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks
 
----
+**Backend & Systems:**
+Spring Boot, REST APIs, JDBC
 
-### Backend
+**Data & Processing:**
+PySpark, Pandas, Data Processing Pipelines
 
-Spring Boot  
-REST API Development  
-JDBC
+**Frontend:**
+React.js, HTML, CSS, JavaScript
 
----
+**Databases:**
+MySQL, MongoDB
 
-### Frontend
-
-React.js  
-HTML  
-CSS  
-JavaScript
-
----
-
-### Databases
-
-MySQL  
-MongoDB
-
----
-
-### Data Technologies
-
-PySpark  
-Pandas  
-Data Processing
-
----
-
-### Tools
-
-Git  
-Postman  
-VS Code  
-Eclipse  
-NetBeans  
-Android Studio
+**Tools:**
+Git, Postman, VS Code, Eclipse
 
 ---
 
 ## Key Projects
 
-### Bank Management System
+### Aqua-Shield – Intelligent Water Resource Risk Management System
 
-Desktop-based banking application developed using Core Java with MySQL database integration.
+*Python, Flask, MySQL*
 
-Features:
+Designed an AI-driven decision support system integrating real-time environmental data (rainfall, reservoir levels, inflow/outflow) for flood and drought risk assessment.
 
-• Account creation  
-• Deposit operations  
-• Withdrawal operations  
-• Balance checking  
-• Graphical user interface  
-• Database connectivity using JDBC
-
-Technologies Used:
-
-Core Java (Swing & AWT)  
-MySQL  
-JDBC  
-NetBeans IDE
-
----
-
-### AI Project Suggestion Platform
-
-Backend-based platform that recommends engineering projects with technical requirements.
-
-Features:
-
-• Project recommendations  
-• Technology suggestions  
-• Requirement estimation  
-• Structured project guidance
-
-Technologies Used:
-
-Spring Boot  
-MySQL  
-REST APIs
-
----
-
-### Location-Based Analytics Dashboard
-
-Analytics system generating reports using location and timestamps.
-
-Features:
-
-• Location-based reporting  
-• API data integration  
-• Automatic report generation  
-• Data visualization
-
-Technologies Used:
-
-Python  
-Streamlit  
-Plotly  
-REST APIs
-
----
-
-### CineScope Movie Platform
-
-Responsive movie search and listing web application built using React and external movie APIs.
-
-Features:
-
-• Movie search functionality  
-• Movie details pages  
-• Dynamic routing  
-• Responsive user interface  
-• Loading skeleton screens  
-• Carousel-based movie browsing
-
-Technologies Used:
-
-React.js  
-React Router DOM  
-React Loading Skeleton  
-React Responsive Carousel  
-Font Awesome  
-JavaScript  
-REST APIs
+* Built a modular architecture including data integration, risk analysis, and reporting layers
+* Implemented a validation-first pipeline using analytical computations before generating explanations
+* Integrated predictive analytics with explainable outputs for decision support
+* Presented as a research project at an international conference (publication in process)
 
 ---
 
 ### Agricultural Data Analysis
 
-Large-scale dataset processing and analysis project.
+*Python, PySpark*
 
-Features:
+Processed large-scale datasets using distributed computing techniques.
 
-• Data cleaning  
-• Data processing  
-• Pattern discovery  
-• Data visualization
+* Built scalable data pipelines for cleaning and transformation
+* Performed analytical processing to identify patterns and insights
+* Applied PySpark for efficient handling of high-volume data
 
-Technologies Used:
+---
 
-Python  
-PySpark  
-Pandas
+### Bank Management System
+
+*Java, MySQL*
+
+Developed a desktop-based banking system with transactional support.
+
+* Implemented backend logic for account and transaction management
+* Designed relational database structure ensuring data consistency
+* Built GUI and integrated database using JDBC
+
+---
+
+### CineScope – Movie Platform
+
+*React.js, REST APIs*
+
+Developed a responsive web application for real-time movie data.
+
+* Implemented dynamic routing and API integration
+* Built reusable components for scalable frontend design
+* Focused on performance and user experience
 
 ---
 
 ## Engineering Approach
 
-I focus on building practical applications and understanding how complete systems work.
+I approach development from a **systems perspective**, focusing on how components interact and scale.
 
-Typical development process:
-
-Problem → Design → Backend → Database → API → Interface → Testing
-
----
-
-## Currently Working On
-
-• AI-based automation tools  
-• Backend system improvement  
-• Intelligent data dashboards  
-• AI applications in real-world systems
+**Typical workflow:**
+Problem → System Design → Backend → Data Layer → APIs → Interface → Testing
 
 ---
 
-## Strengths
+## Current Focus
 
-• Analytical thinking  
-• Problem solving  
-• Attention to detail  
-• Continuous learning
+• Backend system design
+• Data processing systems
+• Intelligent applications integrating analytics and decision logic
 
 ---
 
 ## Contact
 
-Email:  
-indrakiran2004@gmail.com
-
-GitHub:  
-https://github.com/indrakiran24
-
-LinkedIn:  
-https://www.linkedin.com/in/indrakiran-inturi-24iik
+Email: [indrakiran2004@gmail.com](mailto:indrakiran2004@gmail.com)
+GitHub: https://github.com/indrakiran24
+LinkedIn: https://www.linkedin.com/in/indrakiran-inturi-24iik
