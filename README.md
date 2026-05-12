@@ -4,7 +4,7 @@ Computer Science Engineering student focused on building scalable systems and da
 
 My work combines backend engineering, analytical thinking, and structured problem-solving to design solutions that improve decision-making, efficiency, and real-world outcomes.
 
-I enjoy working at the intersection of technology, systems, and business impact — especially in areas involving data, automation, user behavior, and scalable execution.
+I enjoy working at the intersection of technology, systems, and business impact especially in areas involving data, automation, user behavior, and scalable execution.
 
 ---
 
@@ -48,7 +48,7 @@ Git, Postman, VS Code, Eclipse
 ### Aqua-Shield – Intelligent Water Resource Risk Management System
 *Python, Flask, MySQL*
 
-Designed a decision-support platform integrating environmental and analytical data for flood and drought risk assessment.
+Designed a decision support platform integrating environmental and analytical data for flood and drought risk assessment.
 
 • Built a modular architecture integrating data processing, validation, and reporting layers  
 • Applied analytical and predictive approaches to improve reliability of outputs  
