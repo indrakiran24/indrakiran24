@@ -1,115 +1,100 @@
-# Indrakiran | Problem-Solving Engineer & Data-Driven Systems Builder
+# Indrakiran | Computer Science Graduate | Software, Data & AI Applications
 
-Computer Science Engineering student focused on building scalable systems and data-driven applications that solve practical business and operational problems.
+Computer Science Engineering graduate with hands-on experience building software applications, backend systems, data-processing workflows, and AI-assisted solutions.
 
-My work combines backend engineering, analytical thinking, and structured problem-solving to design solutions that improve decision-making, efficiency, and real-world outcomes.
+I have worked with **Java, Python, JavaScript, Spring Boot, FastAPI, React.js, MySQL, MongoDB, PySpark, REST APIs, and Git**, building projects across backend development, data analysis, web applications, and intelligent systems.
 
-I enjoy working at the intersection of technology, systems, and business impact especially in areas involving data, automation, user behavior, and scalable execution.
+My strongest experience comes from taking a problem from **requirement → system design → implementation → data processing → usable output** rather than working on isolated pieces of code.
 
----
+## What I Work With
 
-## Areas of Interest
+**Programming:** Java, Python, JavaScript
+**Backend:** Spring Boot, FastAPI, REST APIs, JDBC
+**Frontend:** React.js, HTML, CSS
+**Data:** Python, Pandas, PySpark, Spark, Plotly
+**Databases:** MySQL, MongoDB
+**AI / Intelligent Systems:** LLM integration, RAG concepts, data-driven prediction and decision support
+**Tools:** Git, GitHub, Postman, VS Code, Eclipse, Jupyter
 
-• Data-Driven Problem Solving  
-• Backend Systems & APIs  
-• Business-Oriented Technology Solutions  
-• Scalable Application Development  
-• Analytical Decision Support Systems
+## Selected Projects
 
----
+### Aqua-Shield — Intelligent Water Resource Risk Management System
 
-## Technical Stack
+**Python | FastAPI | Streamlit | MySQL | Plotly | LLM**
 
-### Languages
-Java, Python, JavaScript
+Developed an intelligent water-resource monitoring system that combines reservoir, rainfall, demand, and environmental data to identify potential drought and flood conditions.
 
-### Core Computer Science
-Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks
-
-### Backend & Systems
-Spring Boot, REST APIs, JDBC
-
-### Data & Processing
-PySpark, Pandas, Data Processing Pipelines
-
-### Frontend
-React.js, HTML, CSS, JavaScript
-
-### Databases
-MySQL, MongoDB
-
-### Tools
-Git, Postman, VS Code, Eclipse
-
----
-
-## Key Projects
-
-### Aqua-Shield – Intelligent Water Resource Risk Management System
-*Python, Flask, MySQL*
-
-Designed a decision support platform integrating environmental and analytical data for flood and drought risk assessment.
-
-• Built a modular architecture integrating data processing, validation, and reporting layers  
-• Applied analytical and predictive approaches to improve reliability of outputs  
-• Focused on generating actionable insights rather than raw predictions  
-• Presented as a research project at an international conference
-
----
+* Built backend services for data processing, reservoir analysis, and risk classification
+* Integrated external environmental and geolocation APIs
+* Developed an interactive Streamlit dashboard for monitoring water conditions
+* Added automated analytical report generation and an LLM-powered question-answering component
+* Used data such as inflow, outflow, evaporation, demand, storage level, and capacity to evaluate reservoir conditions
+* Presented the project as a research paper at an international conference
 
 ### Agricultural Data Analysis
-*Python, PySpark*
 
-Developed scalable data-processing pipelines for handling and analyzing large agricultural datasets.
+**Python | PySpark | Pandas**
 
-• Built distributed processing workflows for efficient handling of high-volume data  
-• Identified trends and analytical patterns from structured datasets  
-• Improved usability and consistency of processed data for analysis and insights
+Built a distributed data-processing workflow for analyzing large agricultural datasets.
 
----
+* Used PySpark for distributed processing and aggregation
+* Cleaned and transformed structured datasets before analysis
+* Extracted trends and patterns from agricultural data
+* Used Pandas for further analysis and interpretation
+* Built the project to demonstrate practical big-data processing rather than only basic data visualization
 
 ### Bank Management System
-*Java, MySQL*
 
-Developed a structured banking application focused on reliability and transaction management.
+**Java | Spring Boot | MySQL**
 
-• Implemented backend logic for account and transaction handling  
-• Designed modular architecture for maintainability and scalability  
-• Integrated relational database systems using JDBC
+Developed a backend-oriented banking application for handling customer accounts and transactions.
 
----
+* Implemented account and transaction management
+* Developed backend services using Spring Boot
+* Connected application logic with MySQL
+* Used layered application structure to separate business logic, data access, and API handling
 
-### CineScope – Movie Platform
-*React.js, REST APIs*
+### CineScope
 
-Built a responsive movie discovery platform integrating real-time API data.
+**React.js | REST APIs | JavaScript**
 
-• Implemented reusable frontend components and dynamic routing  
-• Integrated REST APIs for real-time content retrieval  
-• Focused on responsiveness, usability, and scalable UI structure
+Built a movie discovery web application using React and external movie APIs.
 
----
+* Integrated REST APIs for retrieving movie information
+* Created reusable React components
+* Implemented dynamic content and navigation
+* Built a responsive interface focused on simple movie discovery and browsing
 
-## Approach
+## How I Approach Problems
 
-I approach projects by first understanding the real-world problem, identifying inefficiencies or decision gaps, and then designing structured technical solutions around them.
+I prefer building from the problem rather than starting with a technology.
 
-My focus is not only on building software, but on creating systems that are practical, scalable, and capable of generating measurable impact.
+I first break a requirement into its core inputs, processing logic, data requirements, and expected output. From there, I choose the appropriate technologies and build the application in manageable components.
 
----
+This approach has helped me work across **backend development, databases, data processing, APIs, frontend applications, and AI-assisted features** instead of limiting myself to one layer of a system.
 
-## Current Focus
+## Currently Looking For
 
-• Building systems that combine analytics with decision-making  
-• Understanding how technology can improve business efficiency and growth  
-• Developing scalable applications with practical real-world impact
+I am open to opportunities where I can apply my technical foundation while continuing to grow through real-world engineering and business problems.
 
----
+**Roles of interest:**
 
-## Contact
+* Software Developer / Software Engineer
+* Backend Developer
+* Python Developer
+* Java Developer
+* Data Analyst / Junior Data Engineer
+* Application Developer
+* Technical / Technology Associate roles
 
-Email: indrakiran2004@gmail.com
+## Education
 
-GitHub: https://github.com/indrakiran24
+**B.Tech — Computer Science & Engineering**
+Malla Reddy University
+Graduated: 2026
 
-LinkedIn: https://www.linkedin.com/in/indrakiran-inturi-24iik
+## Connect
+
+**Email:** [indrakiran2004@gmail.com](mailto:indrakiran2004@gmail.com)
+**GitHub:** https://github.com/indrakiran24
+**LinkedIn:** https://www.linkedin.com/in/indrakiran-inturi-24iik
