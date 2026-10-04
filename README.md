@@ -96,5 +96,4 @@ Graduated: 2026
 ## Connect
 
 **Email:** [indrakiran2004@gmail.com](mailto:indrakiran2004@gmail.com)
-**GitHub:** https://github.com/indrakiran24
 **LinkedIn:** https://www.linkedin.com/in/indrakiran-inturi-24iik
